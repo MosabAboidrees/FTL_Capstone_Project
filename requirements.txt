@@ -1,6 +1,4 @@
-seaborn
-holidays
-tabulate
-scipy
-datetime
-scikit-learn
+matplotlib
+pywt
+cv2
+tensorflow
