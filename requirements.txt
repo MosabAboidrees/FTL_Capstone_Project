@@ -1,4 +1,4 @@
 matplotlib
 PyWavelets
-cv2
+opencv-python
 tensorflow
