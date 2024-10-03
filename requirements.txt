@@ -1,3 +1,6 @@
 seaborn
 holidays
 tabulate
+scipy
+datetime
+sklearn
