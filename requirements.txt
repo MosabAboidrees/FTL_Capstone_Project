@@ -3,4 +3,4 @@ holidays
 tabulate
 scipy
 datetime
-sklearn
+scikit-learn
